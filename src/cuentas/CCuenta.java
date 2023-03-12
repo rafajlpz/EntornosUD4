@@ -1,5 +1,10 @@
 package cuentas;
-
+/**
+ * Comentarios para la actividad, esta c lase tiene los atributos nombre,
+ * cuenta, saldo y tipoInteres, asi como los metodos necesarios para
+ * quee se ejecuten las operaciones necesarias.
+ * @author rafajlpz
+ */
 public class CCuenta {
 
     /**
